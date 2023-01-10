@@ -10,6 +10,8 @@ images:
     image: /static/img/armn_pikachu_cat_in_cosmos_aeb4cdf4-70c5-495d-b704-50f99f6cea09.png
   - text: Cat 3
     image: /static/img/armn_space_cat_in_cosmos_62acb630-3d59-48f8-aa98-a68923bd3b48.png
+  - text: Cockatiel 4
+    image: /static/img/armn_synthwave_futuristic_cockatiel_57fd98a9-558d-4008-a634-0bda7801518e.png
 ---
 
 Gallery body, longer text **lorem ipsum**
