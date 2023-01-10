@@ -30,6 +30,27 @@ collections:
         multiple: true
         create: true
         options: ["Tags", "created", "from", "config.yml"]
+  - label: "Gallery"
+    name: "gallery"
+    folder: "src/galleries"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Cover Image", name: "cover", widget: "image" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - widget: list
+        label: "Images"
+        name: "images"
+        create: true
+        allow_add: true
+        collapsed: false
+        fields:
+          - { label: Title, name: text, widget: string }
+          - { label: Image, name: image, widget: image }
   - label: "Settings"
     name: "settings"
     editor:
