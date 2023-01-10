@@ -9,8 +9,14 @@
     <meta name="description" content="{{description}}" />
     {% endif %} {% block head %}{% endblock %}
     <link rel="stylesheet" type="text/css" href="/static/css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"
+    />
   </head>
   <body>
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+
     {% include "./partials/navbar.html" %} {{ content | safe }} {% include
     "./partials/footer.html" %}
 

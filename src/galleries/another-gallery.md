@@ -1,7 +1,7 @@
 ---
-title: Test gallery title
-description: Test gallery description 2
-cover: /static/img/armn_cat_in_cosmos_vibrant_neon_colors_2d64ae46-a9d3-4067-bdb5-e93fa4f5d255.png
+title: Test gallery title 1
+description: Test gallery description
+cover: /static/img/armn_pikachu_cat_in_cosmos_aeb4cdf4-70c5-495d-b704-50f99f6cea09.png
 date: 2023-01-10T21:20:11.860Z
 images:
   - text: Cat 1
