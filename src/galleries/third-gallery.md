@@ -1,7 +1,7 @@
 ---
 title: Test gallery title 3
 description: Test gallery description
-cover: /static/img/armn_space_cat_in_cosmos_62acb630-3d59-48f8-aa98-a68923bd3b48.png
+cover: /static/img/armn_beautiful_futuristic_landscape_mountains_color_pop_bright__aa024b14-8d8b-4b30-8d29-dabb679a882e.png
 date: 2023-01-10T21:20:11.860Z
 images:
   - text: Cat 1
